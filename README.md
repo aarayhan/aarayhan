@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aarayhan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JS.
+- 🌱 I’m currently learning JS, TS, Svelte, SvelteKit.
 
 
 <!---
